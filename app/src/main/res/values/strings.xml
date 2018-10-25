@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Práctica1_WebView</string>
+    <string name="btno"> No </string>
+    <string name="btsi"> Si </string>
+    <string name="texto">¿Desea guardar los datos de acceso?</string>
+    <string name="usuario">Enter your name</string>
+    <string name="contraseña">Enter your password</string>
+</resources>
